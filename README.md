@@ -1,10 +1,10 @@
 # 📝 Gerenciador Simples de Tarefas (Python)
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
-          
-https://img.shields.io/badge/Status-Ativo-brightgreen
-
-Este projeto é um pequeno programa em Python que permite ao usuário cadastrar tarefas e receber um feedback baseado na quantidade de atividades registradas. Ele utiliza listas, entrada de dados e estruturas condicionais — ótimo para quem está aprendendo lógica de programação.
+<img 
+    width="30px"
+    style="padding-rigth: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
+/>    Este projeto é um pequeno programa em Python que permite ao usuário cadastrar tarefas e receber um feedback baseado na quantidade de atividades registradas. Ele utiliza listas, entrada de dados e estruturas condicionais — ótimo para quem está aprendendo lógica de programação.
 
 
 # 🚀 Funcionalidades
@@ -91,3 +91,4 @@ Entrada de dados (input)
 Condicionais (if / elif / else)
 
 Interpolação de strings com f-strings
+
